@@ -4,7 +4,6 @@ public:
         
         int n=img1.size();// find the size of img1
         
-        // created two pair vector to store the indexing of 1 in img1 and img2
         vector<pair<int,int>>non_zero1; 
         vector<pair<int,int>>non_zero2;
         
